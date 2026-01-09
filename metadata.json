@@ -1,0 +1,5 @@
+{
+  "name": "VideoIdentity AI (VN)",
+  "description": "A video analysis platform for facial and voice recognition with phonetic subtitles in Bengali and Vietnamese. (Vietnamese UI)",
+  "requestFramePermissions": []
+}
